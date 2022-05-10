@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nomadkyr/frontend-project-lvl1.git"
+    "url": "git+https://github.com/vladimirfed/frontend-project-lvl1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nomadkyr/frontend-project-lvl1/issues"
+    "url": "https://github.com/vladimirfed/frontend-project-lvl1/issues"
   },
   "type": "module",
-  "homepage": "https://github.com/nomadkyr/frontend-project-lvl1#readme",
+  "homepage": "https://github.com/vladimirfed/frontend-project-lvl1#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
   },
